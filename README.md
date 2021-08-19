@@ -2,7 +2,7 @@
 
 - 💻 
 - 🌱 Estou Estudando HTML e CSS
-- 📧 Contate-me no email:
+- 📧 Contate-me no email: pedroiago68@gmail.com
 
 <div>
   <a href="https://github.com/pedro-lira10">
