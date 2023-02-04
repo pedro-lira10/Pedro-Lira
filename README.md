@@ -1,7 +1,7 @@
 ### Oi, Eu sou o Pedro Lira
 
 - 💻 
-- 🌱 Estou Estudando HTML e CSS
+- 🌱 Estou Estudando HTML , CSS e Javascript.
 - 📧 Contate-me no email: pedroiago68@gmail.com
 
 <div>
